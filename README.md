@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/banner.svg" alt="aws-s3-demo"/>
-</p>
-
 # 🪣 AWS S3 Demo  
 Static website hosting on AWS S3.  
 

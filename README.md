@@ -1,12 +1,15 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Repository banner" width="100%">
+  <img src="./assets/banner.svg" alt="Cloud Journey Banner"/>
 </p>
-A simple project to practice **Amazon S3**.  
-This project demonstrates how to create a bucket, upload files, and host a static website.  
+
+# ☁️ Cloud Journey  
+Learning Cloud & DevOps step by step.  
+
+### 📘 Contents
+- Notes on **AWS, Azure, Linux, Networking**
+- **Practice labs** & experiment logs
+- Hands-on with **Terraform, Docker, Kubernetes**
+- Reflections on what I learn daily  
 
 ---
-
-## 🛠️ Skills Used
-- AWS S3  
-- Static Website Hosting  
-- Bucket Policies & Permissions
+*Work in progress as I grow my skills 🚀*

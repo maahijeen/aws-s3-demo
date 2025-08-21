@@ -1,19 +1,13 @@
-<svg width="1200" height="360" viewBox="0 0 1200 360" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="360" xmlns="http://www.w3.org/2000/svg">
   <rect width="1200" height="360" fill="#ffffff"/>
-  <rect x="0" y="0" width="8" height="360" fill="#F59E0B"/>
-  <g opacity="0.06" fill="#B45309">
-    <circle cx="1080" cy="80" r="3"/><circle cx="1110" cy="120" r="3"/><circle cx="1140" cy="160" r="3"/>
-    <circle cx="1050" cy="120" r="3"/><circle cx="1080" cy="160" r="3"/><circle cx="1110" cy="200" r="3"/>
+  <rect x="0" y="0" width="6" height="360" fill="#F59E0B"/>
+  <!-- Bucket icon -->
+  <g fill="none" stroke="#F59E0B" stroke-width="4" opacity="0.4" transform="translate(950,170)">
+    <path d="M0 -30 h80 l-10 60 h-60 z"/>
+    <ellipse cx="40" cy="-30" rx="40" ry="10"/>
   </g>
-  <!-- Simple 'bucket' motif -->
-  <g transform="translate(120,190)" fill="none" stroke="#F59E0B" stroke-width="4" opacity="0.35">
-    <path d="M0 -30 h90 l-12 70 h-66 z" />
-    <ellipse cx="45" cy="-30" rx="45" ry="10" />
-  </g>
-  <text x="60" y="150" font-size="42" font-weight="700" fill="#0F172A" font-family="Inter, Segoe UI, Roboto, Arial, sans-serif">
-    AWS S3 Demo
-  </text>
-  <text x="60" y="200" font-size="22" fill="#475569" font-family="Inter, Segoe UI, Roboto, Arial, sans-serif">
-    Static website hosting • Buckets • Permissions
-  </text>
+  <text x="60" y="150" font-size="40" font-weight="700" fill="#111827"
+    font-family="Inter,Segoe UI,Roboto,Arial,sans-serif">AWS S3 Demo</text>
+  <text x="60" y="195" font-size="20" fill="#6B7280"
+    font-family="Inter,Segoe UI,Roboto,Arial,sans-serif">Static site hosting & hands-on labs</text>
 </svg>

@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Cloud Journey Banner"/>
+  <img src="./assets/banner.svg" alt="AWS S3 Demo Banner"/>
 </p>
 
-# ☁️ Cloud Journey  
-Learning Cloud & DevOps step by step.  
+# 🪣 AWS S3 Demo  
+Static website hosting on AWS S3.  
 
 ### 📘 Contents
-- Notes on **AWS, Azure, Linux, Networking**
-- **Practice labs** & experiment logs
-- Hands-on with **Terraform, Docker, Kubernetes**
-- Reflections on what I learn daily  
+- Steps to **host a static website**
+- Using **S3 + CloudFront + Route 53**
+- Deploying with **AWS CLI**
+- Example: a simple static site  
 
 ---
-*Work in progress as I grow my skills 🚀*
+*Experiment repo for my AWS learning.*
